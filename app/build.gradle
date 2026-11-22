@@ -11,7 +11,7 @@ android {
         applicationId "com.alisa.app"
         minSdk 24
         targetSdk 34
-        versionCode 179533995
+        versionCode 179534012
         versionName "1.0.0"
     }
 
